@@ -25,7 +25,7 @@ $(document).ready(function () {
             photo: "assets/images/margarita.jpg"
         }, 
         {
-            question: "wich of the following fruits comes from an herb", 
+            question: "wich of the following fruits comes from an herb?", 
             choice: ["oranges", "pineapple", "apples", "bananas" ],
             answer: 3,
             photo: "assets/images/banana.jpg"
