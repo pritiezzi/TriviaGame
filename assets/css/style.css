@@ -6,7 +6,7 @@
   text-align: center;
   margin: 10px auto;
   font-size: 20px;
-  background-color: beige;
+  background-color:chocolate;
 
 }
 
@@ -46,7 +46,7 @@ h1 {
 p {
   margin: 10px;
   font-weight: bold;
-  color: red;
+  color:orange;
   font-size: 20px;
 }
 
@@ -58,7 +58,7 @@ h2, h4 {
 .wrapper {
   margin: 10px auto;
   background-color: rgba(255, 255, 255, 0.7);
-  border: 2px solid #7979d8;
+  border: 2px solid coral;
   height: 500px;
   width: 60%;
   text-align: center;
