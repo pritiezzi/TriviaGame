@@ -31,7 +31,8 @@ img {
 
 body {
   background-size: cover;
-  font-family: 'Karla', sans-serif;
+  font-family: 'Karla';
+  background-color: bisque;
 }
 
 h1 {
@@ -57,7 +58,7 @@ h2, h4 {
 .wrapper {
   margin: 10px auto;
   background-color: rgba(255, 255, 255, 0.7);
-  border: 2px solid #403fd3;
+  border: 2px solid #7979d8;
   height: 500px;
   width: 60%;
   text-align: center;
